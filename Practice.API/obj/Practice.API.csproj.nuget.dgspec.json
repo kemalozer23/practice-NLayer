@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.API\\Practice.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.API\\Practice.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.API\\Practice.API.csproj",
+        "projectName": "Practice.API",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.API\\Practice.API.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\Practice.Service.csproj": {
+                "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\Practice.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj",
+        "projectName": "Practice.Core",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\Practice.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\Practice.Repository.csproj",
+        "projectName": "Practice.Repository",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\Practice.Repository.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj": {
+                "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0-preview.1.22076.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\Practice.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\Practice.Service.csproj",
+        "projectName": "Practice.Service",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\Practice.Service.csproj",
+        "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\Practice.Repository.csproj": {
+                "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Repository\\Practice.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

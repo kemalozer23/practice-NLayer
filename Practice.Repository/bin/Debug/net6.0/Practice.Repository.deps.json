@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practice.Repository/1.0.0": {
+        "dependencies": {
+          "Practice.Core": "1.0.0"
+        },
+        "runtime": {
+          "Practice.Repository.dll": {}
+        }
+      },
+      "Practice.Core/1.0.0": {
+        "runtime": {
+          "Practice.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practice.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Practice.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

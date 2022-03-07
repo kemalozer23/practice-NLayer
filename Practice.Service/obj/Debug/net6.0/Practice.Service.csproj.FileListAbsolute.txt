@@ -1,0 +1,17 @@
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Service.deps.json
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Service.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Service.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Core.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Repository.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Repository.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\bin\Debug\net6.0\Practice.Core.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.csproj.CopyComplete
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\refint\Practice.Service.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\Practice.Service.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Service\obj\Debug\net6.0\ref\Practice.Service.dll

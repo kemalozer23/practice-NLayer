@@ -1,0 +1,15 @@
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Repository.deps.json
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Repository.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Repository.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Core.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Core.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.csproj.CopyComplete
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\refint\Practice.Repository.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.pdb
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\ref\Practice.Repository.dll

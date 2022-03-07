@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Casper\\Desktop\\Practice2\\PractciceNLayer\\Practice.Core\\Practice.Core.csproj": {}
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Casper\\Desktop\\Practice2\\PractciceNLayer\\Practice.Core\\Practice.Core.csproj": {
+    "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PractciceNLayer\\Practice.Core\\Practice.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj",
         "projectName": "Practice.Core",
-        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PractciceNLayer\\Practice.Core\\Practice.Core.csproj",
+        "projectPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\Practice.Core.csproj",
         "packagesPath": "C:\\Users\\Casper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PractciceNLayer\\Practice.Core\\obj\\",
+        "outputPath": "C:\\Users\\Casper\\Desktop\\Practice2\\PracticeNLayer\\Practice.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
