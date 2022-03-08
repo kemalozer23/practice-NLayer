@@ -13,3 +13,5 @@ C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\n
 C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\refint\Practice.Repository.dll
 C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.pdb
 C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\ref\Practice.Repository.dll
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\bin\Debug\net6.0\Practice.Repository.runtimeconfig.json
+C:\Users\Casper\Desktop\Practice2\PracticeNLayer\Practice.Repository\obj\Debug\net6.0\Practice.Repository.genruntimeconfig.cache
