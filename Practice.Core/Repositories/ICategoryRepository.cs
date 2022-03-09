@@ -1,3 +1,5 @@
+using Practice.Core.Models;
+
 namespace Practice.Core.Repositories
 {
     public interface ICategoryRepository : IGenericRepository<Category>

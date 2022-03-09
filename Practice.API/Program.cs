@@ -6,6 +6,8 @@ using Practice.Core.UnitOfWorks;
 using Practice.Repository;
 using Practice.Repository.Repositories;
 using Practice.Repository.UnitOfWorks;
+using Practice.Service.Mapping;
+using Practice.Service.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,7 +20,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepsitory<>));
-// builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddAutoMapper(typeof(MapProfile));
 
 builder.Services.AddDbContext<AppDbContext>(x => 
 {

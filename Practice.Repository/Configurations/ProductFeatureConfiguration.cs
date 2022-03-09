@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Practice.Core;
+using Practice.Core.Models;
 
 namespace Practice.Repository.Configurations
 {

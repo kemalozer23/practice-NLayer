@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Practice.Core;
+using Practice.Core.Models;
 
 namespace Practice.Repository.Configurations
 {
@@ -8,6 +8,7 @@ namespace Practice.Repository.Configurations
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
+            
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).UseIdentityColumn();
             builder.Property(x => x.Name).IsRequired().HasMaxLength(50);

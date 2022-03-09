@@ -1,6 +1,7 @@
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
 using Practice.Core;
+using Practice.Core.Models;
 
 namespace Practice.Repository
 {

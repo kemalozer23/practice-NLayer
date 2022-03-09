@@ -1,4 +1,4 @@
-namespace Practice.Core
+namespace Practice.Core.Models
 {
     public abstract class BaseEntity
     {
