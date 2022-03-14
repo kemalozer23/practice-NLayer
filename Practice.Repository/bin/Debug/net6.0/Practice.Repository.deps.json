@@ -9,6 +9,7 @@
       "Practice.Repository/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.0-preview.1.22076.6",
+          "Microsoft.EntityFrameworkCore.Design": "6.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0-preview.1.22076.6",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.3",
           "Practice.Core": "1.0.0"

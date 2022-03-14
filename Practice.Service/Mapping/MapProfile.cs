@@ -11,7 +11,10 @@ namespace Practice.Service.Mapping
             CreateMap<Product, ProductDto>().ReverseMap();
             CreateMap<Category, CategoryDto>().ReverseMap();
             CreateMap<ProductFeature, ProductFeatureDto>().ReverseMap();
-            CreateMap<ProductFeatureDto, ProductFeature>();
+            CreateMap<ProductUpdateDto, Product>();
+            CreateMap<Product, ProductUpdateDto>();
+            // CreateMap<Product, ProductWithCategoryDto>();
+            // CreateMap<Category, CategoryWithProductsDto>();
         }
     }
 }
